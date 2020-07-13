@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sunny0826/sunny0826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
-    <img src="https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif" style="width: 150px;">
-</center>
+<div align="center">
+  <p>
+    <img src="https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif" style="width: 150px;" alt="云原生之路" />
+  </p>
+</div>
+
+
+:dog2:  [guoxudong.io](guoxudong.io)
