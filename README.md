@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Read [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
+
 <div align="center">
   <p>
     <img src="https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif" style="width: 150px;" alt="云原生之路" />
