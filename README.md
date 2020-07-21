@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Read [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
+Read :octocat: [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
 
 <div align="center">
   <p>
@@ -22,4 +22,4 @@ Read [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
 </div>
 
 
-:dog2:  [guoxudong.io](guoxudong.io)
+:dog2:  [guoxudong.io](guoxudong.io) :cat2:
