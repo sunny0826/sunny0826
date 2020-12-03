@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true" alt="Guo's stats" />
+  </p>
+</div>
 
 Read :octocat: [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
 
@@ -23,4 +28,3 @@ Read :octocat: [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
 
 :dog2:  [guoxudong.io](guoxudong.io) :cat2:
 
-![Guo's stats](https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true)
