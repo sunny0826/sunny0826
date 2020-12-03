@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Guo's stats](https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true)
-
 Read :octocat: [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
 
-![](https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif)
+<div align="center">
+  <p>
+    <img src="https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif" style="width: 150px;" alt="云原生之路" />
+  </p>
+</div>
 
 :dog2:  [guoxudong.io](guoxudong.io) :cat2:
+
+![Guo's stats](https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true)
