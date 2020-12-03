@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Guo's stats](https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true)
+
 Read :octocat: [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
 
 <div align="center">
