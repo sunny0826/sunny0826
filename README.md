@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <p>
+  <a href="https://guoxudong.io">
     <img src="https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true" alt="Guo's stats" />
-  </p>
+  </a>
 </div>
 
 Read :octocat: [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
 
 <div align="center">
-  <p>
+  <a href="https://guoxudong.io">
     <img src="https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif" style="width: 150px;" alt="云原生之路" />
-  </p>
+  </a>
 </div>
 
 :dog2:  [guoxudong.io](guoxudong.io) :cat2:
