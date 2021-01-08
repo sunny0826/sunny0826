@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://guoxudong.io">
-    <img src="https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true" alt="Guo's stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Guo's stats" />
   </a>
 </div>
 
