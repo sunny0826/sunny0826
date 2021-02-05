@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://guoxudong.io">
     <img src="https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Guo's stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny0826&hide=javascript,html,css&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   </a>
+  
 </div>
+
+---
 
 Read :octocat: [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
 
