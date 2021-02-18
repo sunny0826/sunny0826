@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://guoxudong.io">
-    <img src="https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif" style="width: 150px;" alt="云原生之路" />
+    <img src="https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif" style="width: 50px;" alt="云原生之路" />
   </a>
 </div>
 
@@ -11,5 +11,5 @@
 
 Read :octocat: [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
 
-:dog2:  [guoxudong.io](guoxudong.io) :cat2:
+> :dog2:  [guoxudong.io](guoxudong.io) :cat2:
 
