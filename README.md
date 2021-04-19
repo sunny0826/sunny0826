@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Guo's stats" />
 
-Read :octocat: [my blog](guoxudong.io)，Or scan the QR code and follow WeChat.
+Read :octocat: [my blog](https://guoxudong.io)，Or scan the QR code and follow WeChat.
 
-> :dog2:  [guoxudong.io](guoxudong.io) :cat2:
+> :dog2:  [guoxudong.io](https://guoxudong.io) :cat2:
 
