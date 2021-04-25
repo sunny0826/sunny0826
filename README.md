@@ -3,9 +3,10 @@
   <a href="https://guoxudong.io">
     <img src="https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif" width="300" alt="云原生之路" />
   </a>
+  <a href="https://github.com/sunny0826">
+    <img src="https://img.shields.io/github/followers/sunny0826?label=follow&style=social"/>
+  </a>
 </div>
-
-[![GitHub Thaiane](https://img.shields.io/github/followers/sunny0826?label=follow&style=social)](https://github.com/sunny0826)
 
 ---
 
