@@ -11,6 +11,6 @@
 
 [![](https://img.shields.io/github/followers/sunny0826?label=follow&style=social)](https://github.com/sunny0826)
 
-Read :octocat: [my blog](https://guoxudong.io)，Or scan the QR code and follow WeChat Public.
+Read :octocat: [my blog](https://guoxudong.io)，Or scan the QR code and follow WeChat Official Accounts.
 
 > :dog2:  [guoxudong.io](https://guoxudong.io) :cat2:   
