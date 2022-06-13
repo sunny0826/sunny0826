@@ -12,7 +12,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Guo's stats" />
 </picture>
 
+![](https://komarev.com/ghpvc/?username=sunny0826&style=flat-square)
 [![](https://img.shields.io/github/followers/sunny0826?label=follow&style=social)](https://github.com/sunny0826)
+[![](https://img.shields.io/badge/blog-guoxudong.io-blue?style=flat-square&logo=battledotnet)](https://guoxudong.io)
 
 Read :octocat: [my blog](https://guoxudong.io)，Or scan the QR code and follow WeChat Official Accounts.
 
