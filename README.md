@@ -15,7 +15,6 @@
 ![](https://komarev.com/ghpvc/?username=sunny0826&style=flat-square)
 [![](https://img.shields.io/github/followers/sunny0826?label=follow&style=social)](https://github.com/sunny0826)
 [![](https://img.shields.io/badge/blog-guoxudong.io-blue?style=flat-square&logo=battledotnet)](https://guoxudong.io)
-[![](https://img.shields.io/badge/%E6%9E%81%E7%8B%90%20GitLab-Xudong%20Guo-blueviolet?style=flat-square&logo=gitlab)](https://jihulab.com/guoxudong)
 
 Read :octocat: [my blog](https://guoxudong.io)，Or scan the QR code and follow WeChat Official Accounts.
 
