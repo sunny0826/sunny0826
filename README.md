@@ -1,12 +1,4 @@
 
-<div align="center">
-  <a href="https://guoxudong.io">
-    <img src="https://tva3.sinaimg.cn/large/ad5fbf65gy1gfm3j2vo79g20b90b9x6r.gif" width="300" alt="云原生之路" />
-  </a>
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sunny0826&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunny0826&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Guo's stats" />
@@ -16,9 +8,9 @@
 [![](https://img.shields.io/github/followers/sunny0826?label=follow&style=social)](https://github.com/sunny0826)
 [![](https://img.shields.io/badge/blog-guoxudong.io-blue?style=flat-square&logo=battledotnet)](https://guoxudong.io)
 
-Read :octocat: [my blog](https://guoxudong.io)，Or scan the QR code and follow WeChat Official Accounts.
+<img width="340px" src="https://github.com/sunny0826/sunny0826/blob/master/440px-Microsoft_MVP_banner.png?WT.mc_id=AZ-MVP-5005283" />
 
-> :dog2:  [guoxudong.io](https://guoxudong.io) :cat2:   
+👤 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004174). Read :octocat: my blog: [guoxudong.io](https://guoxudong.io).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunny0826/sunny0826/master/profile-3d-contrib/profile-night-green.svg">
