@@ -10,7 +10,7 @@
 
 <img width="340px" src="https://github.com/sunny0826/sunny0826/blob/master/440px-Microsoft_MVP_banner.png?WT.mc_id=AZ-MVP-5005283" />
 
-👤 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004174). Read :octocat: my blog: [guoxudong.io](https://guoxudong.io).
+👤 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/26f43269-95fb-ed11-8f6d-000d3a560942?WT.mc_id=AZ-MVP-5005283). Read :octocat: my blog: [guoxudong.io](https://guoxudong.io).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunny0826/sunny0826/master/profile-3d-contrib/profile-night-green.svg">
